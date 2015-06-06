@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "primesample.pbl" "";
+@end;
+@begin Objects
+ "w_main.srw" "primesample.pbl";
+ "primesample.sra" "primesample.pbl";
+ "n_cst_primer.sru" "primesample.pbl";
+@end;
