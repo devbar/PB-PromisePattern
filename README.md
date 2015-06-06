@@ -5,7 +5,8 @@ An example how to use the promise pattern (popular in the JavaScript world) in P
 
 ![ScreenShot](./resources/PromisePattern.png)
 
-How to use:
+Usage
+=======
 
 ```
 primer = create n_cst_primer
