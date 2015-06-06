@@ -1,0 +1,13 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "promisepattern.pbl" "";
+@end;
+@begin Objects
+ "n_cst_promise_done.sru" "promisepattern.pbl";
+ "n_cst_async_helper.sru" "promisepattern.pbl";
+ "n_cst_promise_then.sru" "promisepattern.pbl";
+ "n_cst_promise_error.sru" "promisepattern.pbl";
+ "n_cst_promise_progress.sru" "promisepattern.pbl";
+ "n_cst_promise_result.sru" "promisepattern.pbl";
+ "n_cst_promise.sru" "promisepattern.pbl";
+@end;
