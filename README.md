@@ -10,7 +10,7 @@ Example:
 // Name:
 //	of_search
 // Description: 
-// 	This is classical method to search prime numbers. It is not effecient but 
+// 	This is a classical method to search prime numbers. It is not effecient but 
 // 	this is not what we want here.
 // 
 // Arguments
