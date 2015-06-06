@@ -51,7 +51,7 @@ next
 
 return upperBound(rla_numbers)
 ```
-The method is callable synchronous. To have a asynchronous entry point use this kind of method.
+This method is synchronised. To have a asynchronous entry point use this kind of method.
 
 ```
 //////////////////////////////////////////////////////////////////////////////
