@@ -1,0 +1,16 @@
+{
+  "name": "devbar-promise",
+  "description": "Coding asynchronous in PowerScript can be painfull. So making methods ready for asynchronism should produce a minimum effort.",
+  "main": [
+    "promisepattern.pbl"
+  ],
+  "keywords": [
+    "promise",
+	"thread",
+	"asynch"
+  ],
+  "authors": [
+    "Benjamin Kemner <benjamin.kemner@devbar.de>"
+  ],
+  "license": "LGPL"
+}

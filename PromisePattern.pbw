@@ -1,4 +1,8 @@
 Save Format v3.0(19990112)
+@begin Unchecked
+@end;
 @begin Targets
  0 "primesample.pbt";
 @end;
+DefaultTarget "primesample.pbt";
+DefaultRemoteTarget "primesample.pbt";
